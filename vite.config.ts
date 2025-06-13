@@ -18,7 +18,7 @@ export default defineConfig({
         start_url: ".",
         icons: [
           {
-            src: "/icons/fast-food.png",
+            src: "/icons/แดกอะไรดี.png",
             sizes: "180x180",
             type: "image/png",
             purpose: "any",
