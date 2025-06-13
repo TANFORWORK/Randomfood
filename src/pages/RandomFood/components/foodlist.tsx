@@ -122,7 +122,7 @@ const RandomFoodPicker = () => {
     <div
       style={{
         minHeight: "100vh",
-        minHeight: "100dvh",
+        // minHeight: "100dvh",
         padding:
           "env(safe-area-inset-top, 1rem) 1rem env(safe-area-inset-bottom, 1rem) 1rem",
         backgroundColor: "#fafafa",
@@ -488,7 +488,7 @@ const RandomFoodPicker = () => {
             left: 0,
             width: "100vw",
             height: "100vh",
-            height: "100dvh",
+            // height: "100dvh",
             backgroundColor: "rgba(0,0,0,0.4)",
             display: "flex",
             alignItems: "center",
